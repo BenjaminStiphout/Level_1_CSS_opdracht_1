@@ -1,0 +1,30 @@
+body{
+    color:sienna;
+    background:tan;
+}
+ul.menu{
+    font-family:'Arial Narrow', Arial, sans-serif; 
+    list-style:none;
+}
+ul.menu li{
+    border:1px solid sienna;
+    padding: 0px;
+}
+h1 em{color:green; font-size: 25px; font-family: cursive;}
+h1 bs{color:indigo; font-size: 20px; font-family: fantasy;}
+
+.class-1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:25px;
+    font-weight:bolder;
+    line-height:40px;
+}
+.black-border{
+    border:5px solid black;
+}
+.blue-border{
+    border:5px solid blue;
+}
+#yellowgreen-background{
+    background-color: yellowgreen;
+}
